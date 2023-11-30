@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meepoljdx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meepoljdx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meepoljdx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 - 👋 Hi, 我是Meepo
 - 👀 非常喜欢大数据，并且从事大数据方向的维护工作
